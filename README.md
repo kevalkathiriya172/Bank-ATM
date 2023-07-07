@@ -30,7 +30,5 @@ Bank ATM simulates an Automated Teller Machine (ATM). It provides various bankin
 
 Contributions to the Bank ATM project are welcome! If you have any suggestions for improvements or bug fixes, please submit a pull request. For major changes, please open an issue to discuss the proposed changes.
 
-## License
 
-[MIT License](LICENSE)
 
