@@ -15,7 +15,11 @@ Bank ATM simulates an Automated Teller Machine (ATM). It provides various bankin
 - Object-Oriented Programming (OOP) principles
 
 
-## For Clone the repository: `git clone https://github.com/kevalkathiriya172/bank-atm.git`
+## For Clone the repository:
+ ``` bash 
+ git clone https://github.com/kevalkathiriya172/Bank-ATM.git
+
+```
 
 
 ## Usage
